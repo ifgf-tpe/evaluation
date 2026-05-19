@@ -54,20 +54,34 @@ def get_creds() -> Credentials:
 
 # ── markdown → Docs requests ──────────────────────────────────────────────────
 
+def parse_line(line: str) -> tuple[str, str, bool]:
+    """Return (clean_text, named_style, is_bullet) for a markdown line."""
+    if line.startswith("# "):
+        return line[2:], "HEADING_1", False
+    if line.startswith("## "):
+        return line[3:], "HEADING_2", False
+    if line.startswith("### "):
+        return line[4:], "HEADING_3", False
+    if line.startswith("- "):
+        return line[2:], "NORMAL_TEXT", True
+    return line, "NORMAL_TEXT", False
+
+
 def build_requests(md_text: str, tab_id: str) -> list:
     """
-    Convert markdown text into a list of Google Docs batchUpdate requests.
+    Convert markdown text into Google Docs batchUpdate requests.
 
     Strategy:
-    1. Insert all text as a single block at index 1.
-    2. Walk through lines again, applying HEADING_1/HEADING_2/bullet styles
-       at the correct character offsets.
-
-    Character index arithmetic uses len() which is correct for our content
-    (Indonesian + ASCII; no surrogate-pair characters).
+    1. Strip all markdown prefixes (##, -, #) so only clean text is inserted.
+    2. Insert the clean text as a single block at index 1.
+    3. Walk lines, applying HEADING_1/HEADING_2/bullet styles at the correct
+       character offsets based on the stripped text lengths.
     """
-    lines = [line.rstrip() for line in md_text.strip().splitlines()]
-    full_text = "\n".join(lines) + "\n"
+    raw_lines = [line.rstrip() for line in md_text.strip().splitlines()]
+    parsed = [parse_line(l) for l in raw_lines]
+
+    # Build clean text (no markdown symbols)
+    full_text = "\n".join(clean for clean, _, _ in parsed) + "\n"
 
     requests = [
         {
@@ -79,35 +93,20 @@ def build_requests(md_text: str, tab_id: str) -> list:
     ]
 
     cursor = 1
-    for line in lines:
-        line_len = len(line) + 1  # +1 for the \n separator
+    for clean, style, is_bullet in parsed:
+        line_len = len(clean) + 1  # +1 for \n
         line_end = cursor + line_len
 
-        if line.startswith("# "):
+        if style != "NORMAL_TEXT":
             requests.append({
                 "updateParagraphStyle": {
                     "range": {"startIndex": cursor, "endIndex": line_end, "tabId": tab_id},
-                    "paragraphStyle": {"namedStyleType": "HEADING_1"},
+                    "paragraphStyle": {"namedStyleType": style},
                     "fields": "namedStyleType",
                 }
             })
-        elif line.startswith("## "):
-            requests.append({
-                "updateParagraphStyle": {
-                    "range": {"startIndex": cursor, "endIndex": line_end, "tabId": tab_id},
-                    "paragraphStyle": {"namedStyleType": "HEADING_2"},
-                    "fields": "namedStyleType",
-                }
-            })
-        elif line.startswith("### "):
-            requests.append({
-                "updateParagraphStyle": {
-                    "range": {"startIndex": cursor, "endIndex": line_end, "tabId": tab_id},
-                    "paragraphStyle": {"namedStyleType": "HEADING_3"},
-                    "fields": "namedStyleType",
-                }
-            })
-        elif re.match(r"^- ", line):
+
+        if is_bullet:
             requests.append({
                 "createParagraphBullets": {
                     "range": {"startIndex": cursor, "endIndex": line_end, "tabId": tab_id},
