@@ -3,5 +3,6 @@
 
 # Google OAuth credentials — never commit these
 credentials.json
+client_secret_*.json
 sync/token_read.json
 sync/token_write.json
