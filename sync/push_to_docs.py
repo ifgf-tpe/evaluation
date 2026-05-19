@@ -54,17 +54,20 @@ def get_creds() -> Credentials:
 
 # ── markdown → Docs requests ──────────────────────────────────────────────────
 
-def parse_line(line: str) -> tuple[str, str, bool]:
-    """Return (clean_text, named_style, is_bullet) for a markdown line."""
+def parse_line(line: str) -> tuple[str, str, bool, bool]:
+    """Return (clean_text, named_style, is_bullet, is_bold) for a markdown line."""
     if line.startswith("# "):
-        return line[2:], "HEADING_1", False
+        return line[2:], "HEADING_1", False, False
     if line.startswith("## "):
-        return line[3:], "HEADING_2", False
+        return line[3:], "HEADING_2", False, False
     if line.startswith("### "):
-        return line[4:], "HEADING_3", False
+        return line[4:], "HEADING_3", False, False
     if line.startswith("- "):
-        return line[2:], "NORMAL_TEXT", True
-    return line, "NORMAL_TEXT", False
+        return line[2:], "NORMAL_TEXT", True, False
+    # Bold labels like **Zhongli** — strip ** and mark bold
+    if line.startswith("**") and line.endswith("**") and len(line) > 4:
+        return line[2:-2], "NORMAL_TEXT", False, True
+    return line, "NORMAL_TEXT", False, False
 
 
 def build_requests(md_text: str, tab_id: str) -> list:
@@ -81,7 +84,7 @@ def build_requests(md_text: str, tab_id: str) -> list:
     parsed = [parse_line(l) for l in raw_lines]
 
     # Build clean text (no markdown symbols)
-    full_text = "\n".join(clean for clean, _, _ in parsed) + "\n"
+    full_text = "\n".join(clean for clean, _, _, _ in parsed) + "\n"
 
     requests = [
         {
@@ -93,7 +96,7 @@ def build_requests(md_text: str, tab_id: str) -> list:
     ]
 
     cursor = 1
-    for clean, style, is_bullet in parsed:
+    for clean, style, is_bullet, is_bold in parsed:
         line_len = len(clean) + 1  # +1 for \n
         line_end = cursor + line_len
 
@@ -111,6 +114,15 @@ def build_requests(md_text: str, tab_id: str) -> list:
                 "createParagraphBullets": {
                     "range": {"startIndex": cursor, "endIndex": line_end, "tabId": tab_id},
                     "bulletPreset": "BULLET_DISC_CIRCLE_SQUARE",
+                }
+            })
+
+        if is_bold:
+            requests.append({
+                "updateTextStyle": {
+                    "range": {"startIndex": cursor, "endIndex": line_end - 1, "tabId": tab_id},
+                    "textStyle": {"bold": True},
+                    "fields": "bold",
                 }
             })
 
