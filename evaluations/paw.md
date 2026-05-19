@@ -2,13 +2,8 @@
 
 ## 2026-02-15
 
-- Singer pertama tidak ada suara dari awal sampai akhir karena mati power utama (Zhongli)
-- Singer kedua juga tidak ada suara karena mati power utama (Zhongli)
 - Singer salah masuk lagu di awal (Zhongli)
-- Suara mic WL naik turun tiba-tiba (Zhongli)
-- Suara gitar listrik tidak ada di awal worship (Zhongli)
 - Masuk free worship nanggung sehingga atmosphere turun (Zhongli)
-- Bass dari awal sampai akhir tidak ada suara (Zhongli)
 
 ## 2026-02-08
 
@@ -49,7 +44,6 @@
 - Miss tempo sehingga tempo turun di praise 1 (Zhongli)
 - WL terasa flat di praise 1 (Zhongli)
 - Masuk di awal kecepetan dan miss masuk di praise 2 (Zhongli)
-- Intro gitar tipis di IEM di praise 3 (Zhongli)
 - Piano medley main block chord saja (Zhongli)
 - MD mati, pemusik perlu belajar bangun chemistry dan kepekaan (Zhongli)
 
@@ -68,7 +62,7 @@
 
 ## 2025-05-11
 
-- Waktu persiapan sound dan check sound kurang diperhatikan (Zhongli)
+- (lihat evaluasi Sound untuk catatan persiapan check sound)
 
 ## 2025-04-20
 
@@ -85,9 +79,7 @@
 
 - Kebalik putaran tapi masih oke di praise 1 (Taipei)
 - Drum dan tamborine miss tempo sedikit di praise 2 (Taipei)
-- Singer tidak bisa dengar suara sendiri dan suara kadang hilang setelah perpindahan (Taipei)
 - Jungle di latihan 1x tapi WL minta 2x ada miskom di tanda di praise 3 (Taipei)
-- IEM keyboard mati-nyala saat worship (Taipei)
 - Ending chord belum disepakati pemusik (Taipei)
 
 ## 2025-03-23
@@ -198,7 +190,6 @@
 - Free worship beat gitar tidak stabil saat worship 1 (Zhongli)
 - Intro tidak lancar di praise 2 (Taipei)
 - Beat verse dan chorus pertama tidak stabil di praise 2 (Taipei)
-- Suara gitar sempat hilang di awal praise 2 (Taipei)
 - WL kasi tanda masuk chorus tapi pemusik tidak ngeh di praise 1 (Taipei)
 
 ## 2024-05-12
@@ -219,7 +210,6 @@
 ## 2024-04-07
 
 - WL salah lirik di praise 1 (Zhongli)
-- Suara gitar terlalu kencang sewaktu ada pergantian efek di praise 2 (Zhongli)
 - Miskom masuk bagian bridge, pemusik tidak tau kapan mulai main melodi bridge saat worship (Zhongli)
 
 ## 2024-02-25
@@ -233,9 +223,8 @@
 - Tanda WL harus diperjelas (Zhongli)
 - Intro telat ada jeda sehingga krik-krik di praise 1 (Taipei)
 - Intro telat ada jeda menunggu pemusik di praise 2 (Taipei)
-- Suara MD kecil di praise 2 (Taipei)
 - Kendala mengajak jemaat free worship di awal (Taipei)
-- Bagian bridge sangat rendah dan WL sudah habis suara saat worship (Taipei)
+- Nada dasar lagu terlalu rendah untuk bagian bridge; WL kehabisan suara saat worship (Taipei)
 
 ## 2024-02-11
 
@@ -261,17 +250,16 @@
 
 - Mulmed tidak tau urutan lagu ada yang ditukar (Zhongli)
 - Worship kurang ngulang di lagu pertama (Zhongli)
-- Sound tiba-tiba mati total beberapa detik di lagu 3 akhir lalu nyala lagi (Zhongli)
 - Worship saat balik verse kedua kali kekurangan 1 putaran (Zhongli)
 
 ## 2024-01-14
 
 - Irama piano dan gitar beda sehingga agak aneh di praise 2 (Taipei)
-- Gitaris sudah teler di praise 3 (Taipei)
+- Gitaris tidak konsisten dalam penampilan di praise 3 (Taipei)
 
 ## 2024-01-07
 
-- WL lemas saat intro praise 1 (Zhongli)
+- WL kurang bertenaga saat intro praise 1 (Zhongli)
 - WL salah masuk verse di praise 1 (Zhongli)
 - WL kurang mengajak jemaat di praise 1 (Zhongli)
 - Masuk dari prechorus ke chorus WL kelewat karena tidak kedengaran kode masuk di praise 2 (Taipei)
@@ -281,12 +269,12 @@
 
 ## 2023-12-03
 
-- WL ngos-ngosan di praise 1, tempo naik turun (Taipei)
+- WL kehabisan napas di praise 1, tempo naik turun (Taipei)
 - Gitar dan keyboard ada beberapa salah chord di verse praise 2 (Taipei)
 - Ketukan drum chorus pertama salah di praise 2 (Taipei)
 - WL dan singer tidak masuk saat balik ke verse round 2 di praise 2 (Taipei)
 - Singer salah masuk lirik di ending praise 2 (Taipei)
-- Suara WL sudah habis di praise 3, tempo naik turun (Taipei)
+- WL kehabisan suara di praise 3, tempo naik turun (Taipei)
 - Bagian ending berantakan di praise 3 (Taipei)
 - WL agak berantakan menyiapkan kata-kata di awal worship (Taipei)
 - Lupa briefing singer bagian free worship masuk slow ada perubahan (Taipei)
@@ -305,8 +293,8 @@
 - PPT ada kesalahan karena kurang persiapan (Zhongli)
 - Ketukan saat masuk bridge salah di praise 2 (Zhongli)
 - Tempo praise 1 kecepatan (Taipei)
-- Karin lupa liat tanda balik 1 lagi di praise 3 (Taipei)
-- Suara WL dan singer tidak sampai di akhir chorus praise 3 (Taipei)
+- Singer lupa memperhatikan tanda untuk balik 1 di praise 3 (Taipei)
+- Vokal WL dan singer tidak sampai di akhir chorus praise 3 (Taipei)
 - WL salah lirik di verse worship (Taipei)
 - PPT salah kasih lirik Mandarin bukan Indonesia (Taipei)
 - Tempo agak kecepatan saat worship (Taipei)
@@ -316,7 +304,6 @@
 
 - Singer tidak masuk "oooo" di ending praise 1 (Zhongli)
 - Singer salah lirik saat worship (Zhongli)
-- Suara WL agak kecil saat worship (Zhongli)
 - Intro gitar ada miss sekali dan filler tidak masuk intro di praise 3 (Taipei)
 - Singer masuk interlude kecepatan satu beat di praise 3 (Taipei)
 - WL kelewat 1 putaran saat masuk chorus worship (Taipei)
@@ -362,12 +349,10 @@
 ## 2023-09-10
 
 - Pianis mau batuk tapi sudah hitung beat sehingga intro ada bolong di praise 2 (Zhongli)
-- Kick drum kabelnya copot mati-nyala saat praise 2 (Zhongli)
 - WL salah lirik di praise 3 dan worship (Zhongli)
 - Singer salah lirik di praise 1 (Taipei)
 - Gitar lupa taro capo, intro fals, WL tidak bisa masuk di praise 2 (Taipei)
 - Chorus balik verse drum kurang pas di praise 2 (Taipei)
-- Suara kick kurang kedengaran di praise 3 (Taipei)
 
 ## 2023-09-03
 
@@ -378,7 +363,6 @@
 - WL salah masuk chorus di praise 3 (Taipei)
 - Banyak jemaat baru tidak tau lagunya sehingga agak sepi di praise 1 (Zhongli)
 - Keyboard lupa catat chord prechorus di praise 2 (Zhongli)
-- Suara gitar kekecilan di praise 3 (Zhongli)
 
 ## 2023-08-13
 
@@ -388,7 +372,6 @@
 - Interlude balik verse salah chord di praise 2 (Zhongli)
 - WL masih tengah ngomong tapi sudah masuk verse sehingga salah lirik di awal praise 3 (Zhongli)
 - Transisi medley kurang mulus di worship (Zhongli)
-- Praise 2 mixing mic kekencangan saat teriak (Taipei)
 - WL masuk kecepatan setelah break di praise 3 (Taipei)
 - Worship high agak lama (Taipei)
 
@@ -396,7 +379,6 @@
 
 - Intro putaran 1 agak kosong karena hanya piano yang main, bass dan gitar baru masuk di putaran 2 (Zhongli)
 - Pianis salah chord saat masuk bridge putaran 1 di praise 2 (Zhongli)
-- Suara agak dengung di praise 3 (Zhongli)
 - Tempo worship naik turun (Zhongli)
 - Medley temponya agak kurang pas saat masuk (Zhongli)
 
@@ -408,13 +390,11 @@
 ## 2023-07-16
 
 - Tempo awal kurang stabil di praise 1 (Zhongli)
-- Suara musik kurang kedengaran sehingga WL dan singer tidak bisa mantap masuk chorus di praise 1 (Zhongli)
 - Intro kurang smooth di praise 3 (Zhongli)
 - Pianis tidak melihat tanda medley sehingga transisi kurang smooth di worship (Zhongli)
 
 ## 2023-07-09
 
-- Suara musik kurang kedengaran sehingga WL dan singer tidak bisa mantap masuk bagian chorus di praise 1 (Zhongli)
 - Lirik salah di praise 2 (Zhongli)
 - Intro tidak smooth di praise 3 (Zhongli)
 - WL ada salah lirik saat chorus di praise 3 (Zhongli)
@@ -447,13 +427,11 @@
 - Tempo makin cepet di praise 1 (Taipei)
 - Singer lupa lirik di praise 1 (Taipei)
 - WL ada fals beberapa kali di praise 1 (Taipei)
-- Suara electric guitar kurang kenceng di praise 2 (Taipei)
 - WL ada salah lirik, verse ketukar di praise 3 (Taipei)
 - Awal tidak tau mau jadi worship atau intro sehingga agak panjang (Taipei)
 
 ## 2023-04-23
 
-- Intro suara piano kurang kenceng/tegas di praise 1 (Zhongli)
 - Verse salah lirik di praise 2 (Zhongli)
 - Piano kurang PD, ada kebalik antara melodi intro dan bridge di praise 3 (Zhongli)
 - Chorus balik chorus ada yang agak miss di worship (Zhongli)
@@ -470,7 +448,6 @@
 ## 2023-03-19
 
 - Slide suka telat pindah (Zhongli)
-- Laptop soundcard sempat sleep mode, membuat suara meleduk kecil (Zhongli)
 
 ## 2023-03-12
 
@@ -481,7 +458,6 @@
 - WL salah lirik di chorus praise 3 (Zhongli)
 - Masuk bagian prechorus jaraknya terlalu lama karena pemusik lupa bagian itu saat worship (Zhongli)
 - Dari chorus slow mau masuk ke overtune terlalu cepat saat worship (Zhongli)
-- Sound system dengung dan tidak kedengaran, naik turun membuat pemusik bingung (Zhongli)
 - Melodi intro tidak ada di praise 1 (Taipei)
 - Interlude kurang rapi karena kurang latihan di praise 1 (Taipei)
 - Singer lupa lirik di praise 1 (Taipei)
@@ -506,7 +482,6 @@
 - PPT salah urutan di awal (Zhongli)
 - Gitaris salah chord di praise 3 (Taipei)
 - Keyboard banyak salah chord di praise 3 (Taipei)
-- Suara worship tidak kedengaran WL saat gitaris salah chord (Taipei)
 
 ## 2023-02-19
 
@@ -546,11 +521,10 @@
 
 ## 2023-01-22
 
-- Mic gitar lupa dinyalain sepanjang lagu praise (Zhongli)
 - Jeda antara praise 1 dan praise 2 agak lama (Zhongli)
 - Tempo antar pemusik tidak sinkron di praise 2 (Zhongli)
 - Tempo praise 3 naik turun (Zhongli)
-- WL tidak sanggup ambil nada tinggi lagi di praise 1 (Taipei)
+- Nada dasar lagu terlalu tinggi untuk WL; perlu penyesuaian kunci di praise 1 (Taipei)
 - Tempo praise 3 naik turun (Taipei)
 - Gitaris salah main chord saat verse mau masuk chorus di worship (Taipei)
 - Setelah free worship mau masuk chorus, pemusik lupa melodi dan WL lupa lirik sehingga tertahan agak lama (Taipei)
@@ -563,7 +537,6 @@
 - Masuk solo gitar melodinya salah di praise 2 (Zhongli)
 - WL fals di awal di praise 3 (Zhongli)
 - Keyboard ada beberapa kunci salah di praise 3 (Zhongli)
-- Keyboardist kurang PD dan suaranya kecil saat worship (Zhongli)
 - Piano salah overtune sehingga WL fals saat overtune di praise 1 (Taipei)
 - Reff kurang diulang 1x lagi di praise 1 (Taipei)
 - Transisi di lagu jedahnya agak lama di praise 2 (Taipei)
@@ -571,14 +544,11 @@
 
 ## 2023-01-08
 
-- Suara piano melodinya tidak kedengaran sehingga intro telat masuk di praise 1 (Zhongli)
 - Pianis ada tidak liat tanda, seharusnya verse 2 kali tapi sudah kemasuk prechorus di praise 1 (Zhongli)
 - Interlude agak berantakan dan melodinya tidak kedengeran sehingga WL telat masuk di praise 2 (Zhongli)
 - Melodi intro efek elektrik guitar salah di praise 2 (Zhongli)
-- Mic WL hijau tidak nyala di praise 3 (Zhongli)
 - Masuk chorus slow agak kurang pas di praise 3 (Zhongli)
 - Drummer tidak liat tanda sehingga mestinya mau medley tapi jadi lanjut ulang chorus lagi saat worship (Zhongli)
-- Suara musik makin lama makin kecil saat worship (Zhongli)
 
 ## 2023-01-01
 
@@ -660,14 +630,14 @@
 - WL masuk kecepetan di praise 1 (Taipei)
 - Keyboard salah chord satu putaran lagu di praise 2 (Taipei)
 - Tempo kecepetan di praise 2 (Taipei)
-- WL sudah habis suara di praise 3 (Taipei)
+- WL kehabisan suara di praise 3 (Taipei)
 - Chorus balik chorus yang terakhir telat masuk di praise 3 (Taipei)
 - Free worship tidak masuk bagian "ooo" saat worship (Taipei)
 
 ## 2022-10-30
 
 - Tempo intro kelambatan di praise 1 (Zhongli)
-- Gitaris butuh banyak latihan di praise 2 (Zhongli)
+- Gitaris perlu meningkatkan kesiapan sebelum ibadah di praise 2 (Zhongli)
 - Outro guitar gagal di praise 2 (Zhongli)
 - Syncup kurang pas di praise 2 (Zhongli)
 - Intronya seharusnya 2 putaran tapi jadi 1 di praise 3 (Zhongli)
@@ -691,7 +661,6 @@
 
 ## 2022-09-25
 
-- Suara WL terlalu kecil saat worship (Zhongli)
 - Agak sepi karena WL kurang ngisi di bagian kosong praise 1 (Taipei)
 - Singer ada yang salah lirik dan salah-salah di praise 1 (Taipei)
 - Bagian intro berantakan di praise 3 (Taipei)
@@ -727,10 +696,9 @@
 - Kurang ngangkat karena tempo agak kelambatan dan WL kurang ngisi di part kosong (Zhongli)
 - Break kurang pas di praise 2 (Zhongli)
 - Keyboard rhythm kurang pas di praise 2 (Zhongli)
-- WL mulai habis nafas di praise 3 (Zhongli)
+- WL mulai kehabisan napas di praise 3 (Zhongli)
 - Reff terakhir suara keyboard berubah jadi organ di praise 3 (Zhongli)
 - Tempo 3 praise naik turun (Zhongli)
-- Suara mic WL kurang kedengaran saat ngomong saat worship (Zhongli)
 - Intro gitar dan piano tidak sinkron di semua praise (Taipei)
 - Nada dasar tidak cocok untuk WL di praise 2 (Taipei)
 - Surprise overtune tidak kompak jembatannya saat worship (Taipei)
@@ -749,7 +717,7 @@
 ## 2022-07-10
 
 - Transisi ke bagian dangdut pemusik kagok di praise 1 (Taipei)
-- WL sudah tidak kuat dan habis nafas di bagian akhir praise 2 (Taipei)
+- WL kehabisan napas di bagian akhir praise 2 (Taipei)
 - Drummer lupa ada break bagian verse di praise 2 (Taipei)
 - Pemusik lupa janjian chord free worship saat worship (Taipei)
 
@@ -772,10 +740,9 @@
 
 - WL salah lirik saat masuk prechorus di praise 1 (Zhongli)
 - PPT ada salah lirik di praise 1 (Zhongli)
-- Suara singer dan WL tidak kuat di bagian "ooo" di praise 2 (Zhongli)
+- Singer dan WL kurang bertenaga di bagian "ooo" di praise 2 (Zhongli)
 - WL tidak kasih tanda untuk masuk prechorus sehingga pemusik bingung di praise 3 (Zhongli)
 - Free worship saat mau masuk bridge agak kelamaan sehingga worship terasa turun (Zhongli)
-- Suara gitar dan piano berasa kecil terutama lagu ke 3 (Zhongli)
 
 ## 2022-06-19
 
@@ -797,8 +764,6 @@
 - WL tidak hafal lirik di praise 1 (Taipei)
 - Mulmed tidak muncul karena lupa crosscheck di praise 1 (Taipei)
 - Keyboard ganti keyboard sehingga kunci belum di setting di praise 2 (Taipei)
-- Chord keyboard colokannya bermasalah sehingga tidak ada suara di praise 2 (Taipei)
-- Keyboard suaranya masih kecil di praise 3 (Taipei)
 - Jungle akhir diskip karena waktunya habis (Taipei)
 - WL masuk kecepetan saat worship (Taipei)
 - Free worship kepanjangan (Taipei)
@@ -807,12 +772,11 @@
 ## 2022-06-05
 
 - Intro berbeda sehingga agak susah masuk untuk singer di praise 1 (Zhongli)
-- WL dan singer agak habis suara di praise 2 dan 3 (Zhongli)
+- WL dan singer kehabisan suara di praise 2 dan 3 (Zhongli)
 - Pianis lupa intro saat worship (Zhongli)
 - Gitaris salah kunci saat chorus di praise 1 (Taipei)
 - Verse agak rendah di praise 1 dan 3 (Taipei)
 - Merasa saat awal atau masuk chorus volume tiba-tiba turun di praise 3 (Taipei)
-- Ada suara konslet di praise (Taipei)
 
 ## 2022-05-29
 
@@ -822,18 +786,16 @@
 - Gitar miss tempo saat free worship (Zhongli)
 - Masuk free worship kecepatan, seharusnya masih bisa ngulang chorus sekali lagi (Zhongli)
 - Jemaat sangat heboh saat masuk bridge sehingga tempo dibawa naik di praise 1 (Taipei)
-- Suara filler kurang kedengaran saat intro sehingga gitar yang bantu main tapi temponya jadi agak lambat di praise 3 (Taipei)
 - WL terlalu cepat masuk saat worship sehingga pemusik belum main intro (Taipei)
 
 ## 2022-05-22
 
 - WL mau masuk verse 1 tapi mulmed sudah munculkan lirik verse 2 sehingga singer ada yang keduluan nyanyi di praise 1 (Zhongli)
 - Pianis lupa overtune di praise 2 (Zhongli)
-- Joseph telat kasih tanda sehingga ada delay saat chorus balik chorus di praise 3 (Zhongli)
+- Tanda untuk balik chorus diberikan terlambat sehingga ada jeda di chorus balik chorus di praise 3 (Zhongli)
 - Kurang dinamika karena dihantem high terus saat worship (Zhongli)
-- Ko Yohanes perlu perhatikan cara pegang mic agar suaranya stabil di praise 1 (Taipei)
-- Ko Yohanes kehabisan napas di praise 2 (Taipei)
-- Suara filler yang keluar di earphone delay sehingga pemain filler agak kebingungan (Taipei)
+- WL perlu memperhatikan teknik memegang mic agar suaranya lebih stabil di praise 1 (Taipei)
+- WL kehabisan napas di praise 2 (Taipei)
 - WL tidak kedengaran melodi interlude sehingga saat bagian interlude balik ke chorus agak mati di praise 3 (Taipei)
 - Kurang dinamika karena dihantem high terus saat worship (Taipei)
 
@@ -864,9 +826,6 @@
 
 ## 2022-05-01
 
-- Kick drum copot sampai selesai praise di praise 1 (Zhongli)
-- Tangan kiri Elsa diangkat sehingga ada bagian agak kosong di praise 2 (Zhongli)
-- WL tidak kasih tanda saat bridge mau masuk chorus slow di praise 2 (Zhongli)
 - Tempo naik turun karena kick drum tidak ada di praise 3 (Zhongli)
 - Chord awal pianis ada yang missed di praise 3 (Zhongli)
 - WL kasih tanda dari free worship rame ke slow kurang jelas sehingga agak awkward saat worship (Zhongli)
@@ -886,8 +845,6 @@
 
 - After ganti lagu, pianis salah melodi sehingga tidak bisa masuk chorus di praise 1 (Zhongli)
 - Bagian ending salah lirik sehingga saat masuk bridge terakhir ada jedah dan pemusik bingung di praise 3 (Zhongli)
-- Suara WL terlalu kecil saat worship (Zhongli)
-- Suara WL tipis di praise 1 (Taipei)
 - Ada beberapa "oo" tidak sinkron di praise 1 (Taipei)
 - WL salah lirik di praise 1 (Taipei)
 - WL kehabisan nafas di praise 2 (Taipei)
@@ -898,16 +855,11 @@
 ## 2022-03-27
 
 - Break gelap Sirna tidak bareng di praise 1 (Zhongli)
-- Mic WL rusak (Zhongli)
-- WL ngeblank terlalu lama saat reff ke reff di praise 2 (Taipei)
-- Suara drum saat worship awal tidak gitu kedengaran (Taipei)
-- Suara filler selalu paling besar sehingga suara piano kelelep (Taipei)
 
 ## 2022-03-13
 
 - WL salah lirik di praise 3 (Zhongli)
 - Bagian bridge kurang beberapa bar saat worship (Zhongli)
-- Sepanjang praise hanya ada suara string tanpa suara piano sehingga praise agak kosong dan susah dibawa naik (Taipei)
 
 ## 2022-03-06
 
@@ -965,7 +917,6 @@
 
 - WL lupa bridge di praise 1 (Zhongli)
 - WL salah lirik di preChorus di praise 1 (Zhongli)
-- Suara keyboard agak kecil di praise 1 (Zhongli)
 - WL tidak menyampaikan tambahan "Oooo" di awal praise 1 (Zhongli)
 - Transisi dari lagu ke-2 ke lagu ke-3 agak lama (Zhongli)
 - Tidak ada intro saat worship (Zhongli)
@@ -1030,7 +981,6 @@
 
 - WL masuk kecepatan 1 bar di praise 1 (Zhongli)
 - Intro drum terlalu panjang di praise 2 (Zhongli)
-- Suara drum lumayan kencang dibanding suara piano di praise 1 (Taipei)
 - WL masuk kecepatan 1 bar saat chorus balik ke verse di praise 1 (Taipei)
 - Piano kurang confident pencet melodi sehingga kurang kedengaran di praise 3 (Taipei)
 - WL salah lirik di praise 3 (Taipei)
@@ -1046,8 +996,6 @@
 - Tempo terlalu lambat di praise 1
 - Stick drum nyangkut di praise 1
 - Tempo naik turun di praise 2
-- Kick drum kurang powernya sehingga berasa kosong di praise 1 dan 2
-- Saat intro tidak keluar suara piano, cuma kedengaran suara pad di praise 3 (Taipei)
 - Dari penyembahan masuk ke bridge agak mendadak saat worship (Taipei)
 - Drum lupa ada march di bagian bridge saat worship (Taipei)
 - Tempo terlalu lambat di praise 1 (Zhongli)
@@ -1065,10 +1013,8 @@
 
 ## 2021-10-03
 
-- Drummer tidak mendengar suara sendiri di praise 3 (Zhongli)
 - Tempo keyboardist dan guitarist kejar-kejaran, tidak dapat feel singkup di praise 3 (Zhongli)
 - Saat free worship tempo keyboardist agak lari (Zhongli)
-- Suara singer dari awal sampai akhir tidak kedengaran sama sekali (Zhongli)
 - WL missed masuk lirik verse di praise 2 (Taipei)
 - Penekanan lirik kurang pas/kompak di praise 2 (Taipei)
 - Chord tidak sinkron di praise 2 (Taipei)

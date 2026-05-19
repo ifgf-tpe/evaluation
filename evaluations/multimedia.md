@@ -29,7 +29,7 @@
 
 ## 2022-09-11
 
-- Mulmed tidak tau ada pelayanan karena lupa ngecek dan WL tidak men-tag (Zhongli)
+- Mulmed tidak mengetahui jadwal pelayanan; perlu mekanisme notifikasi jadwal yang jelas antar tim (Zhongli)
 - Mulmed salah show lirik saat worship 1 bagian verse 2 karena terdistraksi (Zhongli)
 
 ## 2022-07-31
