@@ -30,7 +30,7 @@ TOKEN_FILE = Path(__file__).parent / "token_read.json"
 # Run with --list-tabs first to see the exact tab names in your document.
 TAB_MAP = {
     "PAW": ROOT / "evaluations" / "paw.md",
-    "Sound": ROOT / "evaluations" / "sound.md",
+    "Sound System": ROOT / "evaluations" / "sound.md",
     "Multimedia": ROOT / "evaluations" / "multimedia.md",
 }
 
@@ -120,7 +120,7 @@ def tab_to_markdown(tab: dict) -> str:
 def list_tabs(service):
     doc = service.documents().get(
         documentId=DOCUMENT_ID,
-        includeTabsContent=False,
+        includeTabsContent=True,
     ).execute()
     print(f"Document: {doc.get('title')}\n")
     tabs = doc.get("tabs", [])
@@ -159,7 +159,7 @@ def pull():
         md_path = TAB_MAP[title]
         md_content = tab_to_markdown(tab)
         md_path.write_text(md_content, encoding="utf-8")
-        print(f"  ✓  '{title}' → {md_path.relative_to(ROOT)}")
+        print(f"  OK  '{title}' -> {md_path.relative_to(ROOT)}")
         matched += 1
 
     if matched == 0:

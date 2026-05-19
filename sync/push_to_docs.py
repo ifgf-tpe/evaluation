@@ -33,7 +33,7 @@ TOKEN_FILE = Path(__file__).parent / "token_write.json"
 # Update the keys to match the exact tab names shown in your Google Doc.
 TAB_MAP = {
     "PAW": ROOT / "evaluations" / "paw.md",
-    "Sound": ROOT / "evaluations" / "sound.md",
+    "Sound System": ROOT / "evaluations" / "sound.md",
     "Multimedia": ROOT / "evaluations" / "multimedia.md",
 }
 
@@ -182,7 +182,7 @@ def push():
             body={"requests": requests},
         ).execute()
 
-        print(f"  ✓  '{title}' ← {md_path.relative_to(ROOT)}")
+        print(f"  OK  '{title}' <- {md_path.relative_to(ROOT)}")
 
     print("\nDone. Google Docs is now populated from the markdown files.")
 
