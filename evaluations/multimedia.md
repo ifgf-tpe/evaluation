@@ -12,8 +12,6 @@
 
 ## 2023-10-30
 
-- Suara singer tidak kedengaran karena tertutup musik; perlu turunkan gain pemusik agar nyanyian vokal yang ngangkat (Zhongli)
-- Saat worship, suara WL baru jelas di worship kedua; gain WL perlu lebih diperhatikan dari awal (Zhongli)
 - Suara di area depan kecil tapi di belakang besar; cek routing audio cable dari mixer ke speaker, speaker panggung harus dicolok duluan baru speaker tengah (Taipei)
 
 ## 2023-01-08
@@ -62,7 +60,6 @@
 ## 2021-12-28
 
 - Rekaman natal audio pecah karena setting OBS salah: Desktop Audio seharusnya dimatikan agar tidak double suara dari mixer
-- Gain terlalu tinggi menyebabkan suara rekaman PAW pecah; pantau level OBS agar tidak melebihi batas
 
 ## 2021-12-12
 

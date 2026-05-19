@@ -18,13 +18,13 @@ evaluation/
 ├── README.md                              # Minimal project description
 ├── .gitignore                             # Ignores all *.txt files (LINE chat exports)
 ├── .claude/
-│   └── settings.local.json               # Claude Code local permissions (not committed)
+│   └── settings.local.json               # Claude Code local permissions
 ├── [LINE] Chat in PaW _ Mulmed.txt        # GITIGNORED — PAW & Multimedia combined group chat export
 ├── [LINE] Chat in IFGF - Soundman.txt     # GITIGNORED — Sound team group chat export
 ├── [LINE] Chat in IFGF - Multimedia Sy.txt # GITIGNORED — Multimedia systems group chat export
 └── evaluations/
     ├── paw.md        # Praise & Worship team evaluations (Oct 2021 – present)
-    ├── sound.md      # Sound system team evaluations (May 2025 – present)
+    ├── sound.md      # Sound system team evaluations (Dec 2021 – present)
     └── multimedia.md # Multimedia team evaluations (Oct 2021 – present)
 ```
 
@@ -46,6 +46,8 @@ Covers the sound system and audio engineering:
 - IEM (In-Ear Monitor) setup and mix for musicians and WL
 - Check-sound / sound check process
 - Hardware: microphones, cables, soundcard, speaker, DI box
+
+> **Classification rule**: Gain-related feedback (mixer gain, audio input levels, recording levels) is categorised under **Sound**, not Multimedia — even when the symptom appears in an OBS recording.
 
 ### Multimedia
 Covers visual and broadcast systems:

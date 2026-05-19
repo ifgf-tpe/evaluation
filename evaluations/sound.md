@@ -76,3 +76,12 @@
 - AUX 1 dan AUX 2 ketukar sehingga settingan bingung setelah event besar (Zhongli)
 - Saat running ibadah, soundman lupa cek IEM sehingga suara MD dan click tenggelam (Taipei)
 - Soundcard meleduk saat latihan karena urutan pasang yang salah (Taipei)
+
+## 2023-10-30
+
+- Suara singer tidak kedengaran karena tertutup musik; perlu turunkan gain pemusik agar nyanyian vokal yang ngangkat (Zhongli)
+- Gain WL perlu lebih diperhatikan dari awal; suara WL baru jelas di worship kedua (Zhongli)
+
+## 2021-12-28
+
+- Gain terlalu tinggi menyebabkan suara rekaman PAW pecah; pantau level audio agar tidak melebihi batas
