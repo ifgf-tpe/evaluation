@@ -24,7 +24,7 @@ evaluation/
 ├── [LINE] Chat in IFGF - Multimedia Sy.txt # GITIGNORED — Multimedia systems group chat export
 └── evaluations/
     ├── paw.md        # Praise & Worship team evaluations (Oct 2021 – present)
-    ├── sound.md      # Sound system team evaluations (Dec 2021 – present)
+    ├── sound.md      # Sound system team evaluations (Oct 2021 – present)
     └── multimedia.md # Multimedia team evaluations (Oct 2021 – present)
 ```
 
@@ -47,7 +47,10 @@ Covers the sound system and audio engineering:
 - Check-sound / sound check process
 - Hardware: microphones, cables, soundcard, speaker, DI box
 
-> **Classification rule**: Gain-related feedback (mixer gain, audio input levels, recording levels) is categorised under **Sound**, not Multimedia — even when the symptom appears in an OBS recording.
+> **Classification rules**:
+>
+> - Gain-related feedback (mixer gain, audio input levels, recording levels) is categorised under **Sound**, not Multimedia — even when the symptom appears in an OBS recording.
+> - IEM issues, mic failures, cable/hardware faults, PA level imbalances, and sound system outages belong to **Sound** — even when reported in the context of a PAW evaluation message.
 
 ### Multimedia
 Covers visual and broadcast systems:
@@ -103,8 +106,9 @@ Covers visual and broadcast systems:
 - **Order** = newest date at the top, oldest at the bottom
 - **Language** = Indonesian throughout; translate Chinese or English content
 - **Location** = append `(Taipei)` or `(Zhongli)` at the end of a point if it is location-specific; no parentheses if it applies to both
-- **No author names** — content only, no attribution
+- **No author names** — use role labels (WL, singer, gitaris, pianist, drummer, soundman, mulmed) instead of individual names; content only, no attribution
 - **No redundancy** — if the same point appears multiple times for the same week, keep only one
+- **Constructive framing** — describe what happened technically and what can be improved; rephrase demeaning or judgmental language into actionable feedback (e.g. "WL kehabisan napas" not "ngos-ngosan"; "gitaris perlu meningkatkan kesiapan" not "butuh banyak latihan")
 
 ### Grouping Rule
 An evaluation posted on Sunday through the following Saturday belongs to that Sunday's section.
